@@ -32,6 +32,29 @@ header h2 {
 }
 /*border-bottom: 1px ridge;*/
 
-.navbar {
+.navbar-dark {
     background-color: #901CAD;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+    }
+
+.media {
+    background-color: rgba(243, 247, 248, 0.1);
+    box-shadow: 10px 10px 10px black;
+    }
+
+.modal-header {
+    background-color: lightseagreen;
 }
