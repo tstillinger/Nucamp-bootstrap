@@ -58,3 +58,9 @@ header h2 {
 .modal-header {
     background-color: lightseagreen;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
